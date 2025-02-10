@@ -3,7 +3,7 @@
 Welcome to **FoodBoxOrg**! We maintain the FoodBox project.
 
 ## 📂 Current Projects  
-🔹 [AppFoodBox](https://github.com/FoodBoxOrg/AppFoodBox) – Website in Symfony.
+🔹 [AppFoodBox](https://github.com/FoodBoxOrg/AppFoodBox) – Website in Symfony.  
 🔹 [FoodBox API](https://github.com/FoodBoxOrg/API) – API in Symfony.
 
 ## 👥 Team & Contact
